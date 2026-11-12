@@ -17,12 +17,11 @@ Welcome to my personal portfolio repository! This project marks the successful c
 ## 💻 Output & Behavior
 
 ### 1. Light Mode Output
-<img width="1348" height="637" alt="image" src="https://github.com/user-attachments/assets/24446231-ef11-47f2-9655-5b666789cd82" />
-* **Output Image:** [View Light Mode Output](./light-mode.png)
-* **Description:** Displays a bright, vibrant background image (`background.jpg`) with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
+<img width="1352" height="637" alt="image" src="https://github.com/user-attachments/assets/f8f64211-f9da-4f5c-ae87-cdd0189a8051" />
+* **Description:** Displays a bright, vibrant background image with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
 
 ### 2. Dark Mode Output
-* **Output Image:** [View Dark Mode Output](./dark-mode.png)
+<img width="1348" height="637" alt="image" src="https://github.com/user-attachments/assets/24446231-ef11-47f2-9655-5b666789cd82" />
 * **Description:** Applies a dark overlay (`linear-gradient`) over the background image with a deep dark base color (`#121212`), high-contrast white text over dark cards (`#1e1e1e`), and the sun icon (`☀️`) in the navigation bar.
 
 ---
