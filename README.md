@@ -18,7 +18,7 @@ Welcome to my personal portfolio repository! This project marks the successful c
 
 ### 1. Light Mode Output
 * **Output Image:** `light-mode.jpg`
-* **Description:** Displays a bright, vibrant background image with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
+* **Description:** Displays a bright, vibrant background image (`background.jpg`) with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
 
 ### 2. Dark Mode Output
 * **Output Image:** `dark-mode.jpg`
