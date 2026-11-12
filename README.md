@@ -17,6 +17,7 @@ Welcome to my personal portfolio repository! This project marks the successful c
 ## 💻 Output & Behavior
 
 ### 1. Light Mode Output
+<img width="1348" height="637" alt="image" src="https://github.com/user-attachments/assets/24446231-ef11-47f2-9655-5b666789cd82" />
 * **Output Image:** [View Light Mode Output](./light-mode.png)
 * **Description:** Displays a bright, vibrant background image (`background.jpg`) with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
 
