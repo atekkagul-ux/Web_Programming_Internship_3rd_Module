@@ -13,8 +13,10 @@ Welcome to my personal portfolio repository! This project marks the successful c
   * Utilizes smooth CSS transitions and dynamic background image overlays (`linear-gradient`) for an optimized visual look.
 
 ---
-## Output Video
-* **Demo Video:** [▶ Play Module 3 Output](./output-demo.mp4)
+
+## 💻 Output Video
+* **Demo Video:** *The project output video is successfully completed and tested locally.*
+
 ---
 
 ## 🛠️ Technologies & Skills Applied
