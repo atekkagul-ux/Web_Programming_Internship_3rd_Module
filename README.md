@@ -14,8 +14,15 @@ Welcome to my personal portfolio repository! This project marks the successful c
 
 ---
 
-## 💻 Output Video
-* **Demo Video:** *The project output video is successfully completed and tested locally.*
+## 💻 Output & Behavior
+
+### 1. Light Mode Output
+* **Output Image:** `light-mode.jpg`
+* **Description:** Displays a bright, vibrant background image with clean content cards, dark text, and the moon icon (`🌙`) in the navigation bar.
+
+### 2. Dark Mode Output
+* **Output Image:** `dark-mode.jpg`
+* **Description:** Applies a dark overlay (`linear-gradient`) over the background image with a deep dark base color (`#121212`), high-contrast white text over dark cards (`#1e1e1e`), and the sun icon (`☀️`) in the navigation bar.
 
 ---
 
